@@ -1,4 +1,4 @@
-# servlet-practices
+# servlet-practices in Windows
 
 ### 1. Maven War project 만들기
 1.	maven project 생성:  packaging =>  war
